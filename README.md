@@ -1,7 +1,10 @@
 <div align="center">
   
-  <!-- Título con efecto de máquina de escribir -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=FF69B4&center=true&vCenter=true&width=500&lines=Hola%2C+soy+Mónica+Andrea+Cifuentes+👩‍💻;Full+Stack+Developer;Data+Scientist+en+formación;Amante+del+ML+y+la+nube" alt="Typing SVG" />
+   <h1>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" />
+    ¡Hola, soy Mónica Andrea Cifuentes!
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Sparkles.png" alt="Sparkles" width="35" />
+  </h1>
   
 </div>
 
