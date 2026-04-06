@@ -1,8 +1,7 @@
 <div align="center">
   
-   <h1>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" />
-    ¡Hola, soy Mónica Andrea Cifuentes!
+  <h1>
+    👋 ¡Hola, soy Mónica Andrea Cifuentes!
   </h1>
   
 </div>
@@ -11,32 +10,22 @@
 
 ## 📖 Sobre mí
 
-<table>
-  <tr>
-    <td>
-      <ul>
-        <li>🔭 <strong>Trabajando en:</strong> Proyectos reales de desarrollo web, ciencia de datos y machine learning.</li>
-        <li>✨ <strong>Colaboración:</strong> Abierta a proyectos interesantes y con impacto social. ¡Contáctame!</li>
-        <li>🌍 <strong>Ubicación:</strong> Colombia 🇨🇴</li>
-        <li>🎓 <strong>Estudiante de:</strong> Ingeniería de Software en la Universidad del Valle.</li>
-        <li>🌐 <strong>Idiomas:</strong> Español (nativo) · Inglés (básico - en aprendizaje)</li>
-        <li>📬 <strong>Correo:</strong> <a href="mailto:cifuentes17andrea@gmail.com">cifuentes17andrea@gmail.com</a></li>
-      </ul>
-    </td>
-    <td align="center">
-      <!-- Tarjeta con los lenguajes más usados -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaCifuentess&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF69B4" width="300" />
-    </td>
-  </tr>
-</table>
+- 🔭 Trabajo en proyectos reales de **desarrollo web**, **aplicaciones móviles**, **ciencia de datos** y **machine learning**.
+- ✨ Abierta a proyectos interesantes con impacto social. ¡Contáctame!
+- 🌍 Colombia 🇨🇴
+- 🎓 Ingeniería de Sistemas en la Universidad del Valle.
+- 🤖 Me encanta la **ciencia de datos** y el **machine learning**, pero mi verdadero fuerte es el **desarrollo frontend**.
+- 🌐 **Idiomas:** Español (nativo) · Inglés (básico - en aprendizaje)
+- 📬 **Correo:** [cifuentes17andrea@gmail.com](mailto:cifuentes17andrea@gmail.com)
 
 ---
 
 ## 🌟 Pasiones e intereses
 
+- 🎨 **Desarrollo Frontend** (mi especialidad)
 - 🚀 Desarrollo Full Stack
 - 📊 Ciencia de datos y modelado analítico
-- 🧠 Inteligencia artificial y ML para problemas del mundo real
+- 🧠 Inteligencia artificial y ML aplicados a problemas reales
 
 ---
 
@@ -44,7 +33,7 @@
 
 <div align="center">
 
-### 🎨 Frontend
+### 🎨 Frontend (mi fuerte)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -84,6 +73,8 @@
 
 ![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=AndreaCifuentess&theme=radical&hide_border=true&background=0D1117&stroke=FF69B4&ring=FF69B4&fire=FF69B4&currStreakNum=FFFFFF)
 
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaCifuentess&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF69B4)
+
 </div>
 
 ---
@@ -92,11 +83,8 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/monica-andrea-cifuentes)  <!-- Reemplaza con tu URL real -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/monica-andrea-cifuentes)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AndreaCifuentess)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cifuentes17andrea@gmail.com)
 
 </div>
-
----
-
