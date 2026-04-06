@@ -3,7 +3,6 @@
    <h1>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" />
     ¡Hola, soy Mónica Andrea Cifuentes!
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Sparkles.png" alt="Sparkles" width="35" />
   </h1>
   
 </div>
