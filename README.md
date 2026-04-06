@@ -68,11 +68,14 @@
 ## 💻 Estadísticas de GitHub
 
 <div align="center">
-  
+
+### 📊 Estadísticas generales
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreaCifuentess&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF69B4)
 
+### 🔥 Racha de GitHub
 ![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=AndreaCifuentess&theme=radical&hide_border=true&background=0D1117&stroke=FF69B4&ring=FF69B4&fire=FF69B4&currStreakNum=FFFFFF)
 
+### 📚 Lenguajes más usados
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaCifuentess&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF69B4)
 
 </div>
