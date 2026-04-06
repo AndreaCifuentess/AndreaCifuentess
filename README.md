@@ -3,9 +3,6 @@
   <!-- Título con efecto de máquina de escribir -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=FF69B4&center=true&vCenter=true&width=500&lines=Hola%2C+soy+Mónica+Andrea+Cifuentes+👩‍💻;Full+Stack+Developer;Data+Scientist+en+formación;Amante+del+ML+y+la+nube" alt="Typing SVG" />
   
-  <!-- Contador de visitas al perfil -->
-  <img src="https://komarev.com/ghpvc/?username=AndreaCifuentess&label=Visitas%20al%20perfil&color=FF69B4&style=flat-square" alt="visitas" />
-  
 </div>
 
 ---
@@ -93,13 +90,11 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/monica-andrea.cifuentes)  <!-- Reemplaza con tu URL real -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/monica-andrea-cifuentes)  <!-- Reemplaza con tu URL real -->
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AndreaCifuentess)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cifuentes17andrea@gmail.com)
 
 </div>
 
 ---
-
-⭐️ *Este README se actualiza automáticamente con mis nuevas skills. ¡Vuelve pronto!*
 
