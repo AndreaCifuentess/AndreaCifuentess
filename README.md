@@ -74,9 +74,7 @@
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AndreaCifuentess&theme=radical&border=8B5CF6&fire=8B5CF6"/>
-  <br/>
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndreaCifuentess&show_icons=true&theme=radical)
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AndreaCifuentess&theme=radical" alt="Estadísticas de GitHub"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaCifuentess&layout=compact&theme=radical&title_color=8B5CF6&border_color=8B5CF6" height="180em"/>
 </div>
 
