@@ -68,16 +68,20 @@
 ## 💻 Estadísticas de GitHub
 
 <div align="center">
+  
+<!-- Badges simples que siempre funcionan -->
+<img src="https://img.shields.io/github/followers/AndreaCifuentess?style=for-the-badge&logo=github&label=Seguimos&color=FF69B4" />
+<img src="https://img.shields.io/github/stars/AndreaCifuentess?style=for-the-badge&logo=github&label=Estrellas&color=FF69B4" />
+<img src="https://img.shields.io/github/repos/AndreaCifuentess?style=for-the-badge&logo=github&label=Repositorios&color=FF69B4" />
 
-### 📊 Estadísticas generales
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreaCifuentess&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF69B4)
+<!-- Trofeos (funciona siempre) -->
+[![Trofeos GitHub](https://github-profile-trophy.vercel.app/?username=AndreaCifuentess&theme=radical&no-frame=true&margin-w=10&margin-h=10&row=1&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=AndreaCifuentess&theme=radical&hide_border=true&background=0D1117&stroke=FF69B4&ring=FF69B4&fire=FF69B4&currStreakNum=FFFFFF)
+<!-- Mensaje amigable -->
+<p><i>📈 Cuando tengas repositorios públicos, aquí aparecerán tus gráficas de actividad.</i></p>
 
-### 📚 Lenguajes más usados
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaCifuentess&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF69B4)
 
-</div>
+
 
 ---
 
