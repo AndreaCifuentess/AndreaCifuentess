@@ -74,9 +74,10 @@
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AndreaCifuentess&theme=radical" alt="Estadísticas de GitHub"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AndreaCifuentess&theme=radical&border=8B5CF6&fire=8B5CF6"/>
 </div>
 
+---
 ## 📫 Conectemos
 
 <div align="center">
