@@ -74,6 +74,12 @@
 ![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaCifuentess&hide=html,css&layout=compact&theme=radical)
 
 
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AndreaCifuentess&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AndreaCifuentess&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+### 🤝🏻 &
 ---
 
 ## 📫 Conectemos
