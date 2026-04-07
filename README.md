@@ -81,9 +81,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaCifuentess&layout=compact&theme=radical&title_color=8B5CF6&border_color=8B5CF6" height="180em"/>
 </div>
 
-<!-- Imagen decorativa: gato espacial morado (bonito y divertido) -->
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmIzbGt0ZzZzdGJxYWh1a2xqbm4zd3QzbWJ0dDlpc2tnM2tncWw0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7abB06u9bNzA8LC8/giphy.gif" width="150" alt="Purple cat coding"/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cat%20with%20Tears%20of%20Joy.png" width="80">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Purple%20Square.png" width="80">
+  <p><i>✨ Programando con mucho 💜 morado ✨</i></p>
 </div>
 
 ## 📫 Conectemos
