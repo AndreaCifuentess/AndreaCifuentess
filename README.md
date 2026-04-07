@@ -1,8 +1,5 @@
 <div align="center">
   
-  <!-- BANNER MORADO CON OLA (SVG inline) -->
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=8B5CF6&height=200&section=header&text=Mónica%20Andrea%20Cifuentes&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
-  
   <h1>
     👋 ¡Hola! Soy Mónica Andrea Cifuentes 💜
   </h1>
@@ -24,7 +21,6 @@
 - 🌐 **Idiomas:** Español (nativo) · Inglés (básico - en aprendizaje)
 - 📬 **Correo:** [cifuentes17andrea@gmail.com](mailto:cifuentes17andrea@gmail.com)
 
-<!-- Divisor morado con estrellas -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divisor morado">
 
 ## 🌟 Pasiones e intereses
@@ -54,6 +50,10 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
+
+### 📱 Móvil
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### 🗄️ Bases de datos
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -95,6 +95,3 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cifuentes17andrea@gmail.com)
 
 </div>
-
-<!-- Footer con ola morada -->
-<img src="https://capsule-render.vercel.app/api?type=wave&color=8B5CF6&height=120&section=footer" width="100%"/>
