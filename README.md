@@ -71,6 +71,7 @@
  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AndreaCifuentess&theme=radical"/>
 </div>
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaCifuentess&layout=compact&langs_count=6&theme=radical"/>
 
 
 ---
