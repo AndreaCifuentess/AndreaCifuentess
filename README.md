@@ -74,8 +74,7 @@
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AndreaCifuentess&theme=radical" alt="Estadísticas de GitHub"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AndreaCifuentess&theme=radical" alt="Lenguajes más usados"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AndreaCifuentess&theme=radical" alt="Estadísticas de GitHub"/>
 </div>
 
 ## 📫 Conectemos
