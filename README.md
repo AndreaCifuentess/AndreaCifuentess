@@ -1,8 +1,14 @@
 <div align="center">
   
+  <!-- BANNER MORADO CON OLA (SVG inline) -->
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=8B5CF6&height=200&section=header&text=Mónica%20Andrea%20Cifuentes&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
+  
   <h1>
-    👋 ¡Hola, soy Mónica Andrea Cifuentes!
+    👋 ¡Hola! Soy Mónica Andrea Cifuentes 💜
   </h1>
+  
+  <!-- Espiral morada decorativa -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=435&lines=Frontend+Developer+%F0%9F%8E%A8;Data+Scientist+%F0%9F%93%8A;Amante+del+c%C3%B3digo+%F0%9F%92%BB" alt="Typing SVG" />
   
 </div>
 
@@ -18,11 +24,12 @@
 - 🌐 **Idiomas:** Español (nativo) · Inglés (básico - en aprendizaje)
 - 📬 **Correo:** [cifuentes17andrea@gmail.com](mailto:cifuentes17andrea@gmail.com)
 
----
+<!-- Divisor morado con estrellas -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divisor morado">
 
 ## 🌟 Pasiones e intereses
 
-- 🎨 **Desarrollo Frontend** (mi especialidad)
+- 🎨 **Desarrollo Frontend** (mi especialidad) 💜
 - 🚀 Desarrollo Full Stack
 - 📊 Ciencia de datos y modelado analítico
 - 🧠 Inteligencia artificial y ML aplicados a problemas reales
@@ -68,19 +75,17 @@
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
- <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AndreaCifuentess&theme=radical"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AndreaCifuentess&theme=radical&border=8B5CF6&fire=8B5CF6"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AndreaCifuentess&show_icons=true&theme=radical&title_color=8B5CF6&icon_color=8B5CF6&border_color=8B5CF6" alt="GitHub Stats" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaCifuentess&layout=compact&theme=radical&title_color=8B5CF6&border_color=8B5CF6" height="180em"/>
 </div>
 
-![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaCifuentess&hide=html,css&layout=compact&theme=radical)
-
-
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AndreaCifuentess&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AndreaCifuentess&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
-### 🤝🏻 &
----
+<!-- Imagen decorativa: gato espacial morado (bonito y divertido) -->
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmIzbGt0ZzZzdGJxYWh1a2xqbm4zd3QzbWJ0dDlpc2tnM2tncWw0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7abB06u9bNzA8LC8/giphy.gif" width="150" alt="Purple cat coding"/>
+  <p><i>✨ Programando con mucho 💜 morado ✨</i></p>
+</div>
 
 ## 📫 Conectemos
 
@@ -91,3 +96,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cifuentes17andrea@gmail.com)
 
 </div>
+
+<!-- Footer con ola morada -->
+<img src="https://capsule-render.vercel.app/api?type=wave&color=8B5CF6&height=120&section=footer" width="100%"/>
