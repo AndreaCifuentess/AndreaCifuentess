@@ -75,7 +75,7 @@
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AndreaCifuentess&theme=radical" alt="Estadísticas de GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaCifuentess&layout=compact&theme=radical&title_color=8B5CF6&border_color=8B5CF6" height="180em"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AndreaCifuentess&theme=radical" alt="Lenguajes más usados"/>
 </div>
 
 ## 📫 Conectemos
