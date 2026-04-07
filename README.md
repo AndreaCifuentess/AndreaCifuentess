@@ -84,7 +84,6 @@
 <!-- Imagen decorativa: gato espacial morado (bonito y divertido) -->
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmIzbGt0ZzZzdGJxYWh1a2xqbm4zd3QzbWJ0dDlpc2tnM2tncWw0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7abB06u9bNzA8LC8/giphy.gif" width="150" alt="Purple cat coding"/>
-  <p><i>✨ Programando con mucho 💜 morado ✨</i></p>
 </div>
 
 ## 📫 Conectemos
